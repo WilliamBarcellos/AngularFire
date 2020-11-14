@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "friendlychat-e8e4e": {
+      "hosting": {
+        "williamangular": [
+          "friendlychat-e8e4e"
+        ]
+      }
+    }
+  }
+}
